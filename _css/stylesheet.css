@@ -452,7 +452,8 @@ body {
   .third-col ul li span {
     display: initial;
   }
-  .work-context {
+  .work-context,
+  .secondary-col ul li .work-context a {
     font-family: "Open Sans", Helvetica, sans-serif;
     font-weight: 300;
     line-height: 1.6;
